@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Getting Started
-nav_order: 0
-parent: USA
+nav_order: 1
 ---
 
 # Getting Started
@@ -26,7 +25,7 @@ parent: USA
 
 Coronavirus (COVID-19) is an unprecedented threat to public health and stability. In this rapidly changing environment, **the American public looks to government to provide reliable information and help**. One of the most important ways that a government can do this is by publishing accurate, up-to-date, actionable information. Having a website where you provide a single source of truth for reliable, up-to-date information is a great way to do this.
 
-A lot of COVID-19 info is globally applicable, such as what is published by the [White House Coronavirus Task Force](https://www.coronavirus.gov/) or the [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html). Your websites do not need to repeat this information — simply either embed these resources on your site or link to these sites. 
+A lot of COVID-19 info is globally applicable, such as what is published by the [White House Coronavirus Task Force](https://www.coronavirus.gov/) or the [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html). Your websites do not need to repeat this information — simply either embed these resources on your site or link to these sites.
 
 However there is some information that is specific to states or localities. This type of information, you should gather and make available on your website, such as:
 
@@ -52,7 +51,7 @@ Once you have this page, you should link to it from your main website, as this i
 
 ## 💠 Who is my audience?
 
-**Your audience is the general public who needs help or information**. This general public is anxious, fearful, and confused. Many of them are sick or have lost their jobs. There is an explosion of information about coronavirus, but the reliability and accuracy of this information is not always clear. In times like these, **the public looks to their governments to create clarity and provide prescriptive guidance on what to do**. 
+**Your audience is the general public who needs help or information**. This general public is anxious, fearful, and confused. Many of them are sick or have lost their jobs. There is an explosion of information about coronavirus, but the reliability and accuracy of this information is not always clear. In times like these, **the public looks to their governments to create clarity and provide prescriptive guidance on what to do**.
 
 The information that you publish and the way that you publish it (communication style, clarity of language, visual design, UX) needs to have this audience in mind.
 
