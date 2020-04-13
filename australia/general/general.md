@@ -12,7 +12,7 @@ parent: Australia
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+{:toc}fdsdsdffd 
 
 ---
 
@@ -52,7 +52,7 @@ Norfolk Island: [Norfolk Island](https://www.norfolkisland.com.au/covid-19)
 
 Cocos (Keeling) Islands: [Cocos Island](https://shire.cc/en/your-community/coronaviruscovid19.html)
 
-Christmas Island: 
+Christmas Island:
 
 Australian Antarctic Territories:
 
@@ -69,7 +69,7 @@ What is causing food shortages - Distribution, not production.
 [Cause of Food Shortages](https://www.abc.net.au/news/2020-03-19/coronavirus-distribution-problems-for-supermarket-suppliers/12066684)
 
 
-## 
+##
 
 
 ## Health
@@ -92,7 +92,7 @@ Covid 19 - Comprehensive mental health resources and links -
 
 [Heads Up: Work & Your Mental Health During Covid-19 ](https://www.headsup.org.au/your-mental-health/work-and-your-mental-health-during-the-coronavirus-outbreak?fbclid=IwAR3U2c0c9u7gJUYTu0naeDoKC9vT2luyinfD2Sg0cl96-Yl-Pk8fQnt8Jf8)
 
-[Beyond Blue](https://www.beyondblue.org.au) 
+[Beyond Blue](https://www.beyondblue.org.au)
 
 [Life Line](https://www.lifeline.org.au)
 
@@ -103,11 +103,11 @@ Covid 19 - Comprehensive mental health resources and links -
 
 ### Self-Care
 
-Managing Stress and Anxiety during Covid19 
+Managing Stress and Anxiety during Covid19
 
 [Stress & Anxiety - Covid-19](https://services.unimelb.edu.au/counsel/resources/wellbeing/coronavirus-covid-19-managing-stress-and-anxiety)
 
-Self-care during Covid19 
+Self-care during Covid19
 
 [Self Care Cover-19](https://www.orygen.org.au/About/Responding-to-the-COVID-19-outbreak/For-young-people-and-families/Self-care-during-the-COVID-19-outbreak)
 
@@ -125,7 +125,7 @@ Self-care for GPs during Covid19 -
 
 **Victoria Resources - Education and Training**
 
-Advice for schools - 
+Advice for schools -
 
 [Victorian Schools](https://www.education.vic.gov.au/school/Pages/coronavirus-advice-schools.aspx)
 
@@ -226,7 +226,7 @@ List of companies hiring in Australia. Link leads to source articles.
 
 ## Elderly (65+)
 
-Food 
+Food
 
 [Coles Supermarket](https://www.coles.com.au/customernotice)
 
