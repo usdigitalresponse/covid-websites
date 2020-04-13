@@ -10,11 +10,11 @@ defaults:
       image: "/assets/images/facebook.png"
 aux_links:
   "Home":
-    - "//coronawhatnow.com"
+    - "//ssyooo.github.io/covid19content/"
   "Help Us":
-    - "//www.facebook.com/groups/coronawhatnow"
+    - "//www.usdigitalresponse.org/"
   "GitHub":
-    - "//github.com/coronawhatnow/coronawhatnow.com"
-footer_content: "This a free, open, and collaborative directory. Please help us improve it. Contact us at <a href=\"mailto:coronawhatnow@gmail.com\">coronawhatnow@gmail.com</a>."
-ga_tracking: UA-161488429-1
+    - "//github.com/ssyooo/covid19content"
+footer_content: "This is a free, open source resource created by volunteers with the U.S. Digital Response. Contact us at info@usdigitalresponse.org if you have questions or feedback."
+ga_tracking: UA-163579596-1
 
