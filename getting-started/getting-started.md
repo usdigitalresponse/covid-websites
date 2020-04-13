@@ -21,7 +21,7 @@ nav_order: 1
 </span>
 
 
-## 💠 Why do state or local governments need good COVID-19 information websites?
+## Why do state or local governments need good COVID-19 information websites?
 
 Coronavirus (COVID-19) is an unprecedented threat to public health and stability. In this rapidly changing environment, **the American public looks to government to provide reliable information and help**. One of the most important ways that a government can do this is by publishing accurate, up-to-date, actionable information. Having a website where you provide a single source of truth for reliable, up-to-date information is a great way to do this.
 
@@ -37,7 +37,7 @@ However there is some information that is specific to states or localities. This
 The **What Information Should Be On Your Site** section of this doc describes what types of information you should have on your coronavirus website which is specific to your state/ locality vs. what can be linked or embedded from the authoritative source.
 
 
-## 💠 Where do I publish COVID-19 information? Do I need to have a separate COVID-19 website? Or can I repurpose an existing site?
+## Where do I publish COVID-19 information? Do I need to have a separate COVID-19 website? Or can I repurpose an existing site?
 
 Guidance for federal agencies from **[digital.gov](https://digital.gov/resources/coronavirus-covid19-guidance-for-us-government/)** suggests to stand up an `agency.gov/coronavirus` page. For states and localities, it should be something like `sanantonio.gov/coronavirus` in accordance with this structure.
 
@@ -49,7 +49,7 @@ Once you have this page, you should link to it from your main website, as this i
 
 
 
-## 💠 Who is my audience?
+## Who is my audience?
 
 **Your audience is the general public who needs help or information**. This general public is anxious, fearful, and confused. Many of them are sick or have lost their jobs. There is an explosion of information about coronavirus, but the reliability and accuracy of this information is not always clear. In times like these, **the public looks to their governments to create clarity and provide prescriptive guidance on what to do**.
 
