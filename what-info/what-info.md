@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What information should I have on my site & how should I think about layout?
+title: What info to put on your site
 nav_order: 2
 ---
 
