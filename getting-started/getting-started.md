@@ -59,6 +59,6 @@ The information that you publish and the way that you publish it (communication 
 - **Publish just the essential information on your site**. Resist the urge to publish all the information that you can find about coronavirus on your site — this is unnecessary, not helpful, and overwhelming for your average reader.
 - For very detailed information or guidelines that are geared towards specific audiences (such as healthcare professionals, travelers, pregnant people, etc), **point them towards the pages that are written and maintained by the CDC**. The CDC has the most reliable and detailed information and directions out there so far. There is no reason to duplicate and maintain this content separately. **[Coronavirus.gov](https://www.coronavirus.gov/)**, the coronavirus information portal created and maintained by the White House Coronavirus Task Force, is a great example of how to do this well. The vast majority of the buttons and links in the below screenshot link out to pages on the CDC site.
 
-TODO screenshot
+![](https://paper-attachments.dropbox.com/s_AFB08FCF419066C006E599F7596BE2FAB19D791C3F7DE75880CBBC14F3D92746_1586809242412_Screen+Shot+2020-04-13+at+1.05.37+PM.png)
 
 The media will likely be looking at your site as well, so that they can distribute information from the government for the public. It is a good idea to have a section on your website for **“Press Releases and Media”** where the media can go and easily find information specifically for them.
