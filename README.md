@@ -1,17 +1,9 @@
-www.coronawhatnow.com
+https://github.com/ssyooo/covid19content
 
-# Coronavirus is impacting your life. What now?
-This a free, open, and collaborative website for collecting actionable resources for people and businesses affected by coronavirus aka COVID-19.
+# Best Practices for COVID-19 Goverment Websites
+As a state or local government, it is important keep your constituents informed with clear, direct information and instructions in this rapidly changing environment of COVID-19. This COVID-19 Website Best Practice Guide will help you understand how to best do this via a public-facing website where you can publish and maintain information, guidance, resources, and news about COVID-19.
 
-# I want to help or I don't see my city/state/country
-This will always be free for everyone. The only thing we ask is for you to contribute time, if you can. We're building an open directory of information that helps people and businesses get actionable understanding and help for the affects of coronavirus.
+# I want to help or I have information or a resource that you should include on this website
+We'd love to hear from you. If you have feedback about this website or you know of a useful resource that isn't included here, provide us with **[feedback at this form](https://airtable.com/shrhIGZLVYi7eqOv5)**.
 
-Here are examples of types of info we're collecting, each on a country/state/local level:
-- Food access
-- Financial help
-- Quarantine details
-- Healthcare (teledocs, drive throughs, etc)
-
-Ideally information from state, local, federal governments and reputable companies and non-profits only.
-
-[Join our Facebook group to get started](https://www.facebook.com/groups/coronawhatnow/announcements/)
+If you'd like to join the **[U.S. Digital Response](https://www.usdigitalresponse.org/)** in assisting federal, state, or local governments in the response to COVID-19, reach out to us here: [info@usdigitalresponse.org](info@usdigitalresponse.org).
