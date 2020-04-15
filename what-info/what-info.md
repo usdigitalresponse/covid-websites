@@ -50,10 +50,10 @@ This sample homepage combines the most effective elements of great coronavirus i
 
 
 - **Navigation** at the top makes the high-level buckets of categories very clear and easy to get to.
-- **Search** provides an easy way for visitors to find what they are looking for quickly if they are looking for something specific.
+- **Search** provides an easy and quick way for visitors to find what they are looking for.
 - **Definition of coronavirus** - Not everyone might know what coronavirus is yet, so state in clear, simple terms what it is.
 - **Stay at home order** - if your state has a stay at home order, this is very important to call out prominently at the top of your site. Link to the content of the Stay at Home order itself.
-- **When the site was last updated.** Things are changing very quickly wrt coronavirus information. Letting your visitors know when you’ve last updated the site helps provide confidence that the information is accurate and up-to-date. *The* [*State of California*](https://covid19.ca.gov/) *provides a great example of where to put the* ***Definition of coronavirus****, a notification of the* ***Stay at home order****, and when the* ***site was last updated****.*
+- **When the site was last updated.** The coronavirus situation is changing very quickly. Letting your visitors know when you’ve last updated the site helps provide confidence that the information is accurate and up-to-date. *The* [*State of California*](https://covid19.ca.gov/) *provides a great example of where to put the* ***Definition of coronavirus****, a notification of the* ***Stay at home order****, and when the* ***site was last updated****.*
 ![California example](https://paper-attachments.dropbox.com/s_AFB08FCF419066C006E599F7596BE2FAB19D791C3F7DE75880CBBC14F3D92746_1586388700208_Screen+Shot+2020-04-08+at+3.21.11+PM.png)
 
 
@@ -62,20 +62,20 @@ This sample homepage combines the most effective elements of great coronavirus i
 ![](https://paper-attachments.dropbox.com/s_AFB08FCF419066C006E599F7596BE2FAB19D791C3F7DE75880CBBC14F3D92746_1586564945353_image.png)
 
 
-The majority of health guidance on symptoms, how to protect yourself, high-risk individuals, and resources for specific groups like travelers, pregnant people, etc are largely applicable to all Americans. The CDC & the White House have been publishing and curating the authoritative, up-to-date content in this category.
+The majority of health guidance on symptoms, how to protect yourself, and resources for specific groups like travelers, pregnant people, etc. are largely applicable to all Americans. The CDC & the White House have been publishing and curating the authoritative, up-to-date content in this category.
 
-[Coronavirus.gov](https://www.coronavirus.gov/) is the website that is created and curated by the White House Coronavirus Task Force. It links out to important pages on the CDC’s website or other authoritative sources. The design of this page is also very simple, clear, and action- oriented. As this website is currently not embeddable on other websites (we are working to see if this is possible!), our current recommendation is to take the links from [coronavirus.gov](https://www.coronavirus.gov/) and to add those links to your own website.
+[Coronavirus.gov](https://www.coronavirus.gov/) is the website that is created and curated by the White House Coronavirus Task Force. It links out to important pages on the CDC’s website or other authoritative sources. The design of this page is also very simple, clear, and action-oriented. As this website is currently not embeddable on other websites (we are working to see if this is possible!), our current recommendation is to take the links from [coronavirus.gov](https://www.coronavirus.gov/) and to add those links to your own website.
 
 
-### Key Financial & Business Resources for XYZ State/ Locality
+### Key Financial & Business Resources for XYZ State/Locality
 
 ![](https://paper-attachments.dropbox.com/s_AFB08FCF419066C006E599F7596BE2FAB19D791C3F7DE75880CBBC14F3D92746_1586564984979_8NGKKeQ6.png)
 
 
 Many people who come to your site will be looking for financial, employment, housing, loan, food, health insurance, or other ways to get help from your government or community. People will also be looking for the best ways to help their community. We recommend having prominent ways to access these resources from your homepage so that people can easily find them.
 
-- **Resources for individuals in your state/ locality** ([example from NYC](https://www1.nyc.gov/site/coronavirus/resources/resources-for-new-yorkers.page))
-- **Resources for Businesses/ Non-Profits** ([example from NYC](https://www1.nyc.gov/site/coronavirus/businesses/businesses-and-nonprofits.page))
+- **Resources for individuals in your state/locality** ([example from NYC](https://www1.nyc.gov/site/coronavirus/resources/resources-for-new-yorkers.page))
+- **Resources for Businesses/Non-Profits** ([example from NYC](https://www1.nyc.gov/site/coronavirus/businesses/businesses-and-nonprofits.page))
 - **Ways to Help** ([example from NYC](https://www1.nyc.gov/site/coronavirus/ways-to-help/ways-to-help.page))
 
 Clicking on each of these sections can direct users to a page containing links that pertain to those resources. [*NYC’s Coronavirus Information Portal*](https://www1.nyc.gov/site/coronavirus/index.page) *does this very well. They feature the resources prominently on their coronavirus portal homepage, and clicking on each link provides users with a page that has useful links, sorted by category.*
@@ -89,14 +89,14 @@ Clicking on each of these sections can direct users to a page containing links t
 ![](https://paper-attachments.dropbox.com/s_AFB08FCF419066C006E599F7596BE2FAB19D791C3F7DE75880CBBC14F3D92746_1586557674464_image.png)
 
 
-If your state or locality has data on testing, infections, and locations with outbreaks, surface this information on your website in a clear, easy-to-read, visual manner. Ideally, you have some interactive graphs or visualizations that users can browse. For national and global data, there are many data resources that don’t require you to maintain that data yourself, so you can link to those. We recommend:
+If your state or locality has data on testing, infections, and locations with outbreaks, surface this information on your website in a clear, easy-to-read, and visual manner. Ideally, you have some interactive graphs or visualizations that users can browse. For national and global data, there are many data resources that don’t require you to maintain that data yourself, so you can link to those. We recommend:
 
 - [CDC - Cases in the U.S.](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html)
 - [CDC - Cases in the World](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/world-map.html)
 - [Tableau COVID-19 Viz Gallery](https://public.tableau.com/en-us/s/covid-19-viz-gallery): A curation of the those impactful data visualizations about Coronavirus (COVID-19) - from Tableau, an enterprise tech company that maintains its data and info really well
 - [Coronavirus Global Cases Map](https://coronavirus.jhu.edu/map.html): ****Interactive world map of COVID-19 cases from Johns Hopkins
 
-**For data specific to your state/ locality that you have on your website, you may want to include:**
+**For data specific to your state/locality that you have on your website, you may want to include:**
 
 - How many tests have been performed
 - How many test results are pending
@@ -115,7 +115,7 @@ If your state or locality has data on testing, infections, and locations with ou
 ![](https://paper-attachments.dropbox.com/s_AFB08FCF419066C006E599F7596BE2FAB19D791C3F7DE75880CBBC14F3D92746_1586557964013_image.png)
 
 
-When your government executives need to publish announcements, orders, or press releases, it can be useful to have a section on your website to surface the most recent ones & link to a page that lists all of the announcements.
+When your government executives need to publish announcements, orders, or press releases, it can be useful to have a section on your website to surface the most recent ones and link to a page that lists all of the announcements.
 
 [*New Jersey*](https://covid19.nj.gov/index.html) *has a great example of a site that does this well.*
 
@@ -123,13 +123,13 @@ When your government executives need to publish announcements, orders, or press 
 
 ## Additional Considerations
 
-- **If your government is a state or county and you know of cities within your jurisdiction that have their own coronavirus websites**, have a section on your homepage where you list links to those websites so that your users have an easy way to get to them. *An example of a website that does this centralization very well is one of the* [*South Korean provincial government’s coronavirus website*](https://www.provin.gangwon.kr/covid-19.html)*. Gangwon-do is a province in Korea that has many cities in it. This page has a section that lists the coronavirus info websites for each of the cities within the province.*
+- **If your government is a state or county and you know of cities within your jurisdiction that have their own coronavirus websites**, include a section on your homepage where you list links to those websites so that your users can easily navigate to them. *An example of a website that does this centralization very well is one of the* [*South Korean provincial government’s coronavirus website*](https://www.provin.gangwon.kr/covid-19.html)*. Gangwon-do is a province in Korea that has many cities in it. This page has a section that lists the coronavirus info websites for each of the cities within the province.*
 ![South Korean Provincial website linking to city websites](https://paper-attachments.dropbox.com/s_AFB08FCF419066C006E599F7596BE2FAB19D791C3F7DE75880CBBC14F3D92746_1586559032706_Screen+Shot+2020-04-10+at+3.50.11+PM.png)
 
 - **Logos & Images**
     - Digital.gov advises to use the [CDC’s coronavirus logo](https://phil.cdc.gov/Details.aspx?pid=2871) to provide visual continuity among all government sites about coronavirus. Do not create any separate logos for the time being.
     - Using open-source images and other visual assets can make it easier for users to quickly read and understand your coronavirus website information. The **[Design & Technical Resources section]** of this doc lists some of them for your use.
-- **Getting feedback from your constituents** - It’s very important to hear from your constituents on whether or not your website provided the information that they needed in a way that was useful to them. This will help you understand what additional information you need to publish, as well as what design or feature changes you need to make to your website. We recommend adding a “Submit feedback about this site” link to a [Google Form](https://docs.google.com/forms/u/0/?tgif=d) with the following questions:
+- **Getting feedback from your constituents** - Constituent feedback is very important. Make sure your website is providing useful information that your constituents need. This will help you understand what additional information you need to publish, as well as what design or feature changes you need to make to your website. We recommend adding a “Submit feedback about this site” link to a [Google Form](https://docs.google.com/forms/u/0/?tgif=d) with the following questions:
     - *Did you find the information that you needed? Y/N*
         - *What were you looking for?*
     - *On a scale of 1-10, how easy was it to find information on this site?*
