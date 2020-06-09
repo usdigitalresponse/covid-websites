@@ -11,9 +11,9 @@ As a state or local government, it is important keep your constituents informed 
 
 
 # 📚 How to Use This Resource
-1. Start with the **[Getting Started](/covid19content/getting-started/getting-started.html)** guide
-2. Next, understand **[What Information Should Be on your Site & How to Think about Layout](/covid19content/what-info/what-info.html)**, which includes mockups of a sample state/ local government website & tips on how to organize your information
-3. Browse the links in the **[Design & Technical Resources](/covid19content/resources/resources.html)** section, which is a list of assets, tools, and other resources that can help you build your website and examples of great state/ local government coronavirus websites to reference
+1. Start with the **[Getting Started](/getting-started/getting-started.html)** guide
+2. Next, understand **[What Information Should Be on your Site & How to Think about Layout](/what-info/what-info.html)**, which includes mockups of a sample state/ local government website & tips on how to organize your information
+3. Browse the links in the **[Design & Technical Resources](/resources/resources.html)** section, which is a list of assets, tools, and other resources that can help you build your website and examples of great state/ local government coronavirus websites to reference
 4. **[Let us know your feedback](https://airtable.com/shrhIGZLVYi7eqOv5)** — was this resource helpful? Why or why not?
 
 
