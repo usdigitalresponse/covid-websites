@@ -3,7 +3,7 @@ title: COVID-19 Website Best Practices Guide for U.S. State & Local Governments
 description: "Resources to help governments keep their constituents informed with clear, usable websites."
 layout: default
 title: Home
-image: "https://coronawhatnow.com/assets/images/facebook.png"
+image: "https://covid-websites.usdigitalresponse.org/assets/images/facebook.png"
 nav_order: 0
 ---
 # Best Practices for COVID-19 Goverment Websites
