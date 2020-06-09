@@ -11,11 +11,10 @@ defaults:
       image: "/assets/images/facebook.png"
 aux_links:
   "Home":
-    - "//ssyooo.github.io/covid19content/"
+    - "https://usdigitalresponse.github.io/covid19content/"
   "Help Us":
-    - "//www.usdigitalresponse.org/"
+    - "https://www.usdigitalresponse.org/"
   "GitHub":
-    - "//github.com/ssyooo/covid19content"
+    - "https://github.com/usdigitalresponse/covid19content"
 footer_content: "This is a free, open source resource created by volunteers with U.S. Digital Response. Contact us at info@usdigitalresponse.org if you have questions or feedback."
 ga_tracking: UA-163579596-1
-
