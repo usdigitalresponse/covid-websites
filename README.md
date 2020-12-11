@@ -1,6 +1,6 @@
-# Best Practices for COVID-19 Goverment Websites
+# Best Practices for COVID-19 Government Websites
 
-As a state or local government, it is important keep your constituents informed with clear, direct information and instructions in this rapidly changing environment of COVID-19. This **COVID-19 Website Best Practice Guide** will help you understand how to best do this via a public-facing website where you can publish and maintain information, guidance, resources, and news about COVID-19.
+As a state or local government, it is important to keep your constituents informed with clear, direct information and instructions in this rapidly changing environment of COVID-19. This **COVID-19 Website Best Practice Guide** will help you understand how to best do this via a public-facing website where you can publish and maintain information, guidance, resources, and news about COVID-19.
 
 ## 📚 How to Use This Resource <a id="-how-to-use-this-resource"></a>
 
