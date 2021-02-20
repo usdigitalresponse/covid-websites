@@ -1,4 +1,4 @@
-# Announcements & Press Releases
+# Announcements & press releases
 
 When your government executives need to publish announcements, orders, or press releases, it can be useful to have a section on your website to surface the most recent ones and link to a page that lists all of the announcements.
 

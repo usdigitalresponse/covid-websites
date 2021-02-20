@@ -1,4 +1,4 @@
-# Key financial & business resources for XYZ state/locality
+# Key financial & business resources for your locality
 
 Many people who come to your site will be looking for financial, employment, housing, loan, food, health insurance, or other ways to get help from your government or community. People will also be looking for the best ways to help their community.
 

@@ -1,4 +1,4 @@
-# Introductory
+# Introduction
 
 We recommend that your website include the following in an introductory section:
 

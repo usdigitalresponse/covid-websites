@@ -1,7 +1,5 @@
 # Information to put on your site
 
-
-
 We compiled these guidelines by taking guidance from [digital.gov](https://digital.gov/resources/coronavirus-covid19-guidance-for-us-government/?dg) and researching the information made available by Public Health departments of various U.S. states and localities.
 
 

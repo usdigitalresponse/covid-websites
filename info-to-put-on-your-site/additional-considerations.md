@@ -1,4 +1,4 @@
-# Additional Considerations
+# Additional considerations
 
 Additional considerations include incorporating cities with websites, using the CDC coronavirus logo, and obtaining feedback from constituents. See the following for details:
 

@@ -1,4 +1,4 @@
-# Infections & Testing Data
+# Infections & testing data
 
 If your state or locality has data on testing, infections, and locations with outbreaks, surface this information on your website in a clear, easy-to-read, and visual manner. Ideally, you have some interactive graphs or visualizations that users can browse. For national and global data, there are many data resources that don’t require you to maintain that data yourself, so you can link to those. We recommend:
 

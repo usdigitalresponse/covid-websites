@@ -1,4 +1,4 @@
-# Getting Started
+# Getting started
 
 Coronavirus \(COVID-19\) is an unprecedented threat to public health and stability. In this rapidly changing environment, **the American public looks to government to provide reliable information and help**. One of the most important ways that a government can do this is by publishing accurate, up-to-date, actionable information. Having a website where you provide a single source of truth for reliable, up-to-date information is a great way to do this.
 
