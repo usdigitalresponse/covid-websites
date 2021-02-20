@@ -1,20 +1,12 @@
 # Design & Technical Resources
 
+We recommend the following design and technical resources:
 
+* [Free resources for developing a public-facing COVID-19 website](https://covid-websites.usdigitalresponse.org//resources/resources.html#free-resources-for-developing-a-public-facing-covid-19-website)
+* [Other resources to for your COVID-19 response](https://covid-websites.usdigitalresponse.org//resources/resources.html#other-resources-to-for-your-covid-19-response)
+* [Listing of U.S. State/ Local COVID-19 Websites](https://covid-websites.usdigitalresponse.org//resources/resources.html#listing-of-us-state-local-covid-19-websites)
 
-### TABLE OF CONTENTS <a id="table-of-contents"></a>
-
-1. [Design & Technical Resources](https://covid-websites.usdigitalresponse.org//resources/resources.html#design---technical-resources)
-   1. [Help us make this page better](https://covid-websites.usdigitalresponse.org//resources/resources.html#help-us-make-this-page-better)
-   2. [Free resources for developing a public-facing COVID-19 website](https://covid-websites.usdigitalresponse.org//resources/resources.html#free-resources-for-developing-a-public-facing-covid-19-website)
-   3. [Other resources to for your COVID-19 response](https://covid-websites.usdigitalresponse.org//resources/resources.html#other-resources-to-for-your-covid-19-response)
-   4. [Listing of U.S. State/ Local COVID-19 Websites](https://covid-websites.usdigitalresponse.org//resources/resources.html#listing-of-us-state-local-covid-19-websites)
-
-### Help us make this page better <a id="help-us-make-this-page-better"></a>
-
-[Provide Feedback](https://airtable.com/shrhIGZLVYi7eqOv5)
-
-### Free resources for developing a public-facing COVID-19 website <a id="free-resources-for-developing-a-public-facing-covid-19-website"></a>
+### Free resources for developing a public-facing COVID-19 website
 
 | **Public-facing COVID-19 infections dashboards** | - [Tableau COVID-19 Viz Gallery](https://public.tableau.com/en-us/s/covid-19-viz-gallery) - A curation of the those impactful data visualizations about Coronavirus \(COVID-19\) - from an enterprise tech company - [Johns Hopkins Coronavirus Global Cases](https://coronavirus.jhu.edu/map.html) - Johns Hopkins provides an embeddable dashboard of coronavirus cases around the world. - [Instructions for embedding it](https://coronavirus.jhu.edu/map-faq) - [Eagle County Community COVID-19 Monitoring](https://datastudio.google.com/u/0/reporting/1ddB1kq5h6QjTk77HltHKnho8GHnvk85e/page/plbIB) - Eagle County provides an example of a great local dashboard that is publicly available. They also provide instructions for how to create one for your own state/ locality. |
 | :--- | :--- |
